@@ -1,5 +1,7 @@
 # Tech Hood Agra Website Codebase
 
+![Tech Hood Agra Banner](path/to/your/image.jpg) 
+
 ## License
 
 This repository is licensed under the Tech Hood Agra Proprietary License. For the full terms and conditions, please refer to the `License.md` file.
