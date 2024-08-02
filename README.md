@@ -1,4 +1,4 @@
-![Tech Hood Agra Banner](asset/techhoodagra_cover.jpeg) 
+![Tech Hood Agra Banner](asset/logo.jpeg) 
 
 
 # Tech Hood Agra Website Codebase
