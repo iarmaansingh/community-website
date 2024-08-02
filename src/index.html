@@ -4,27 +4,54 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tech Hood Agra</title>
-    <link rel="stylesheet" href="src\style.css">
+    <link rel="stylesheet" href="/src/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <header>
-        <h1>Welcome to Tech Hood Agra</h1>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
+<body >
+    <header class="flex items-center justify-between mt-0.5 bg-white  py-3">
+        <div class="left flex items-center ml-5">
+            <img src="./asset/logo.png" alt="" class="w-20 h-12">
+            <p class="font-bold text-xl ml-1">Tech Hood Agra</p>
+        </div>
+        <div class="center">
+            <nav>
+                <ul class="flex gap-16 font-medium">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Category</a></li>
+                    <li><a href="#">Events</a></li>
+                    <li><a href="#">Members</a></li>
+                    <li><a href="#">Contact</a></li>
+
+                </ul>
+            </nav>
+        </div>
+        <label class="switch mr-8">
+            <input type="checkbox">
+            <span class="slider"></span>
+        </label>
     </header>
     
     <main>
-        <section>
-            <h2>About Us</h2>
-            <p>Tech Hood Agra is a community-driven platform focused on [brief description of what the platform does].</p>
-        </section>
-        
+        <div class="container">
+         <div class="banner">
+            <div class="text">
+                <p class="text-black text-5xl">Introducting a tech platfrom designed to nuture & grow Tech Minds!</p>
+                <button class="button">
+                    Join  Community
+                    <svg fill="currentColor" viewBox="0 0 24 24" class="icon">
+                      <path clip-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z" fill-rule="evenodd"></path>
+                    </svg>
+                  </button>
+            </div>
+            <div class="illustration">
+                <img src="/src/asset/Standup meeting-bro.png" alt="">
+            </div>
+        </div>
+    </div>
+    
         <section>
             <h1>Work going on ..... ⚠️⚠️⚠️⚠️</h1>
             <p></p>
