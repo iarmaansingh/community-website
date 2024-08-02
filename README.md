@@ -1,4 +1,4 @@
-![Tech Hood Agra Banner](asset/banner-1)
+![Tech Hood Agra Banner](asset/banner.png)
 
 
 # Website Codebase
