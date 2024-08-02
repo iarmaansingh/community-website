@@ -1,6 +1,8 @@
+![Tech Hood Agra Banner](asset/techhoodagra_cover.jpeg) 
+
+
 # Tech Hood Agra Website Codebase
 
-![Tech Hood Agra Banner](path/to/your/image.jpg) 
 
 ## License
 
