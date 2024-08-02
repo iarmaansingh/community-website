@@ -1,4 +1,4 @@
-![Tech Hood Agra Banner](asset/banner.png)
+![Tech Hood Agra Banner](src/asset/banner.png)
 
 
 # Website Codebase
@@ -10,6 +10,12 @@ The Tech Hood Agra website is a community-driven platform aimed at [brief descri
 
 <br>
 <br>
+
+## Project Structure
+
+<img src="src/asset/project-struct.png" width="550" height="350" />
+
+
 
 ## Installation
 
