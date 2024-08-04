@@ -4,7 +4,7 @@
 
 ## Project Overview 🌟
 
-The Tech Hood Agra website is a community-driven platform designed to [brief description of the purpose of the platform]. This repository contains the codebase for the website, featuring elements such as [list some key features, e.g., event listings, user profiles, etc.].
+The Tech Hood Agra website is a community-driven platform designed to help students with accessing community's offerings. This repository contains the codebase for the website, featuring elements such as event listings, user profiles, etc.
 
 <br>
 
