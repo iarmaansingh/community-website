@@ -1,4 +1,4 @@
-![Tech Hood Agra Banner](src/asset/banner.png)
+![Tech Hood Agra Banner](assets/images/banner.png)
 
 
 # Website Codebase
@@ -13,7 +13,7 @@ The Tech Hood Agra website is a community-driven platform aimed at [brief descri
 
 ## Project Structure
 
-<img src="src/asset/project-struct.png" width="550" height="350" />
+<img src="assets/images/project-struct.png" width="550" height="350" />
 
 
 
@@ -100,7 +100,7 @@ This repository is licensed under the Tech Hood Agra Proprietary License. For th
 
  ## Contact
 
-For any questions regarding this repository or its content, please contact Tech Hood Agra at [Your Contact Information].
+For any questions regarding this repository or its content, please contact Tech Hood Agra at [agratechhood@gmail.com].
 
 <br>
 
