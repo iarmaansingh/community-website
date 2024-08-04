@@ -1,6 +1,6 @@
 ![Tech Hood Agra Banner](assets/images/banner.png)
 
-# Tech Hood Agra Website Codebase 🚀
+# Tech Hood Agra Website Codebase 💻
 
 ## Project Overview 🌟
 
