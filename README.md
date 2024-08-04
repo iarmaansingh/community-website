@@ -43,7 +43,7 @@ We welcome contributions to the Tech Hood Agra project. To contribute:
 2. **Create a New Branch**
 
     ```bash
-    git checkout -b feature-branch
+    git checkout -b your-name
     ```
 
 3. **Make Your Changes**
